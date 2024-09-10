@@ -1,5 +1,7 @@
-target/
 releases/
+
+# Rust
+target/
 
 # Python
 __pycache__
@@ -12,3 +14,7 @@ dist/
 
 # Hatch
 _version.py
+
+# Nix
+/result
+/result-man
